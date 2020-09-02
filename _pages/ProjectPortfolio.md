@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /Data-Science-Projects/
-title: "Data Science Projects by Tags"
+permalink: /Data-Analysis-Projects/
+title: "Data Analysis Projects by Tags"
 author_profile: true
 header:
   image: "/images/AWS.png"
