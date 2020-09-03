@@ -43,7 +43,7 @@ The first and second page displayed the sales, gross profit amounts by country (
 ## Procurement / Spend Data Analysis
 The report is created with date slicers, multi row card to display total amounts and quantities. The Total Purchases and Total PO's are measured against buying package, supplier, stock item, months through donut, bar chart and matrix tables.
 
-<iframe width="800" height="600" src="https://app.powerbi.com/groups/cb687ceb-c643-4710-807c-f8616d622c9d/reports/ddfbf933-196c-4214-a85b-c691ede9cf5a?ctid=04470da2-204f-4d81-93f6-d1be2e82cf66" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="600" src="<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ddfbf933-196c-4214-a85b-c691ede9cf5a&autoAuth=true&ctid=04470da2-204f-4d81-93f6-d1be2e82cf66 config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Bank Data Analysis
 The first two pages of report contains customer data (ID, job classification, gender, education, marital status, loan default, age group, balance group) represented in slicers, map, bar, column, pie charts.
