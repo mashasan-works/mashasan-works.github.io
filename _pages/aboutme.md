@@ -7,7 +7,15 @@ header:
 
  A self-managed Professional with 14 years’ experience focused in managing technical project, network planning, designing, deployment and data analysis. I am self-initiator, eager to learn, excellent in presentation, excellent in project management and service delivery.
 
+## Tertiary Qualification 
+
+•	Bachelor of Science in Computer science from American International University -Bangladesh 
+(www.aiub.edu) which is assessed by Australian computer Society as comparable to an AQF Bachelor Degree with a major in computin 
+
+
 ## Certifications
+
+ICTPMG611 Prepare a detailed design brief from Telstra Corporation Ltd (These competencies form part of the ICT60615 Advanced Diploma of Telecommunication Network Engineering)
 
 ### PRINCE2 Agile® Foundation Certificate Agile	PM				
 Issued Feb 2019						      			
