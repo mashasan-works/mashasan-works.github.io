@@ -32,9 +32,9 @@ Bachelor of Science in Computer science from American International University -
 
 
 
-### Data Analysis Technique 
+### Data Analysis Skills 
 
-| Data Science                                                                                  | Level                  | Years Of Expertise               |
+|                                    Data Analysis                                              |         Level          |      Years Of Expertise          |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
 | Python Scripting with libraries i.e. numpy, matplotlib, panda, scikit                         | Beginner               | 1                                |
 | Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
