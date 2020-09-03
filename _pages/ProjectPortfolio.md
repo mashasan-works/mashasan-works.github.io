@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Data-Analysis-Projects/
-title: "Data Analysis Projects by Tags"
+title: "Data Analysis Projects"
 author_profile: true
 header:
   image: "/images/PBI.png"

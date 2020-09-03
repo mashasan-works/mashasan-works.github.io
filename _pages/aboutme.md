@@ -28,13 +28,16 @@ Bachelor of Science in Computer science from American International University -
 | SQL Queries                                                                                  | Intermediate           | 4                                |      
 | SQL Scripting Language                                                                       | Intermediate           | 2                                |
 | MS SQL server Administration                                                                 | Intermediate           | 1.5                              |
+| SQL Scripting Language                                                                       | Intermediate           | 2                                |
+| MS SQL server Administration                                                                 | Intermediate           | 1.5                              |
+
 
 
 
 
 ### Data Analysis Skills 
 
-|                                    Data Analysis                                              |         Level          |      Years Of Expertise          |
+|                                    Data Analysis Knowledge                                    |         Level          |      Years Of Expertise          |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
 | Python Scripting with libraries i.e. numpy, matplotlib, panda, scikit                         | Beginner               | 1                                |
 | Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
