@@ -9,7 +9,7 @@ header:
 
 ## Tertiary Qualification 
 
-•	Bachelor of Science in Computer science from American International University -Bangladesh 
+Bachelor of Science in Computer science from American International University -Bangladesh 
 (www.aiub.edu) which is assessed by Australian computer Society as comparable to an AQF Bachelor Degree with a major in computin 
 
 
@@ -17,29 +17,21 @@ header:
 
 ICTPMG611 Prepare a detailed design brief from Telstra Corporation Ltd (These competencies form part of the ICT60615 Advanced Diploma of Telecommunication Network Engineering)
 
-### PRINCE2 Agile® Foundation Certificate Agile	PM				
-Issued Feb 2019						      			
-Credential ID GR659002651MR
-
-### AWS Certified Solutions Architect-Associate
-* Issued Oct 2018 - Expires Oct 202
-* Credential ID 389165 
-* [AWS Certification Badge](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-31&ci=AWS00357345)
 
 ## My Awesome Skills
 
 
-### Amazon Web Services, Serverless & Microservices 
+### Data Analysis 
 
-| AWS                                                                                          |Level                   | Years Of Expertise               |
+| Tools                                                                                        |Level                   | Years Of Expertise               |
 | -------------------------------------------------------------------------------------------- |:----------------------:| :-------------------------------:|
-| Server & Database Migration Strategies,Service                                               | Intermediate           | 2                                |
-| IAM, S3, ELB, ASG, EC2, VPC, RDS                                                             | Intermediate           | 2                                |
-| CloudWatch, CloudTrail                                                                       | Intermediate           | 2                                |
-| Lambda, DynamoDB, API Gateway                                                                | Intermediate           | 2                                |
-| Policy, Roles, Encryption, KMS, Cognito                                                      | Intermediate           | 2                                |      
-| Node.js, Postman                                                                             | Intermediate           | 2                                |
-| Infrastructure As Code - CloudFormation , YAML                                               | Intermediate           | 2                                |
+| Power Bi Desktop                                                                             | Intermediate           | 3                                |
+| Power Bi Services                                                                            | Intermediate           | 2                                |
+| DAX Formulas                                                                                 | Advanced               | 10                               |
+| Excel                                                                                        | Advanced               | 10                               |
+| SQL Queries                                                                                  | Intermediate           | 4                                |      
+| SQL Scripting Language                                                                       | Intermediate           | 2                                |
+| MS SQL server Administration                                                                 | Intermediate           | 1.5                              |
 
 
 
