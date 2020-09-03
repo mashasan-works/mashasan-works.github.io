@@ -5,7 +5,7 @@ header:
   image: "/images/about.png"
 ---
 
- A self-managed Professional with 14 years’ experience focused in managing technical project, network planning, designing, deployment and produce reports. I am self-initiator, eager to learn, excellent in presentation, excellent in project management and service delivery.
+ A self-managed Professional with 14 years’ experience focused in managing technical project, network planning, designing, deployment and data analysis. I am self-initiator, eager to learn, excellent in presentation, excellent in project management and service delivery.
 
 ## Certifications
 
