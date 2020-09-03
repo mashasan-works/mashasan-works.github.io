@@ -13,10 +13,6 @@ Bachelor of Science in Computer science from American International University -
 (www.aiub.edu) which is assessed by Australian computer Society as comparable to an AQF Bachelor Degree with a major in computin 
 
 
-## Certifications
-
-ICTPMG611 Prepare a detailed design brief from Telstra Corporation Ltd (These competencies form part of the ICT60615 Advanced Diploma of Telecommunication Network Engineering)
-
 
 ## My Awesome Skills
 
@@ -36,7 +32,7 @@ ICTPMG611 Prepare a detailed design brief from Telstra Corporation Ltd (These co
 
 
 
-### Data Science, Python and SQL 
+### Data Analysis Technique 
 
 | Data Science                                                                                  | Level                  | Years Of Expertise               |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
