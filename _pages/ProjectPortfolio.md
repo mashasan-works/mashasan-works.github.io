@@ -4,7 +4,7 @@ permalink: /Data-Analysis-Projects/
 title: "Data Analysis Projects by Tags"
 author_profile: true
 header:
-  image: "/images/DataCoverPhoto.JPG"
+  image: "/images/PBI.png"
 ---
 
 {% include base_path %}
