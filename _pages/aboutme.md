@@ -12,7 +12,7 @@ header:
 Bachelor of Science in Computer science from American International University -Bangladesh 
 (www.aiub.edu) which is assessed by Australian computer Society as comparable to an AQF Bachelor Degree with a major in computin 
 
-## Remarkable Projects
+## Remarkable Data Analysis Projects
 
 | Project Name                                            |Client                                          | Years                            |
 | --------------------------------------------------------|:----------------------------------------------:| :-------------------------------:|
