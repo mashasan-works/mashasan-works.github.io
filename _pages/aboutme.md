@@ -5,7 +5,7 @@ header:
   image: "/images/about.png"
 ---
 
- A self-managed Professional with 14 years’ experience focused in managing technical project, network planning, designing, deployment and data analysis. I am self-initiator, eager to learn, excellent in presentation, excellent in project management and service delivery.
+ A self-managed Professional with 14 years’ experience focused in managing technical project, Perform ETL, modelling data, creating dashboard, and analysis data. I am self-initiator, eager to learn, excellent in presentation, excellent in project management and service delivery.
 
 ## Tertiary Qualification 
 
@@ -14,13 +14,13 @@ Bachelor of Science in Computer science from American International University -
 
 ## Remarkable Data Analysis Projects
 
-| Project Name                                            |Client                                          | Years                            |
-| --------------------------------------------------------|:----------------------------------------------:| :-------------------------------:|
-| Lanka Bangla data managment & Visualisation             | Lanka Bangla Finance Limited                   | 2019-2020                        |
-| Digital Transformation project                          | Bangladesh Overseas Employment & Services Ltd  | 2018-2019                        |
-| NBN MTM PDSA and HDA Project                            | Telsta corporation Ltd                         | 2016-2018                        |
-| Teletalk exchange deployment Project                    | Huawei Technologies Bangladesh Ltd             | 2012-2013                        |
-| Telenor Network Swap Project                            | Huawei Technologies Bangladesh Ltd             | 2011-2012                        |
+| Project Name                                     |Client                                          | Years                            |
+| -------------------------------------------------|:----------------------------------------------:| :-------------------------------:|
+| Lanka Bangla data managment & Visualisation      | Lanka Bangla Finance Limited                   | 2019-2020                        |
+| Digital Transformation project                   | Bangladesh Overseas Employment & Services Ltd  | 2018-2019                        |
+| NBN MTM PDSA and HDA Project                     | Telsta corporation Ltd                         | 2016-2018                        |
+| Teletalk exchange deployment Project             | Huawei Technologies Bangladesh Ltd             | 2012-2013                        |
+| Telenor Network Swap Project                     | Huawei Technologies Bangladesh Ltd             | 2011-2012                        |
 
 ## My Awesome Skills
 
@@ -42,18 +42,23 @@ Bachelor of Science in Computer science from American International University -
 | MS SQL Server 2008/2012 Reporting Services (SSIS)                                            | Beginner               | 1                                |
 
 
-### Data Analysis Skills 
+### Project Management Tools & Techniques 
 
-|                                    Data Analysis Knowledge                                    |         Level          |      Years Of Expertise          |
-| --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
-| Power Bi for                 | Intermediate           | 4                                |
-| Power Bi Services for Publish, create data flow & share with stakeholders                     | Intermediate           | 2                                |
-| Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
-| Bulletproofing Blueprint for Data Wrangling                                                   | Beginner               | 1                                |
-| Data Warehouse, ETL, Microsoft BI Tools: SSDT-BI, SSIS                                        | Beginner               | 1                                |
-| SQL Tables (RAW, WRK, DRV), stored procedures, functions                                      | Beginner               | 1                                | 
-| Python Scripting with libraries i.e. numpy, matplotlib, panda, scikit                         | Beginner               | 1                                |
-| Co-efficient of logistic regression                                                           | Beginner               | 1                                |
+|            Tools & Techniques                  |         Level          |      Years Of Expertise          |
+| ---------------------------------------------- |:----------------------:| --------------------------------:|
+| Change Management                              |  Advanced              | 8                                |
+| Incident Managment                             |  Advanced              | 8                                |
+| Problems Management                            |  Advanced              | 8                                |
+| Define Project SoW                             |  Intermediate          | 3                                |
+| Activities writing                             |  Intermediate          | 2                                |
+| Risk Analysis & Mitigation Plan                |  Intermediate          | 3                                |
+| Resource Planning                              |  Intermediate          | 3                                |
+| Project Activities break down                  |  Intermediate          | 3                                |
+| Vendor Management                              |  Intermediate          | 3                                |
+| Monitoring project activities                  |  Intermediate          | 3                                |
+| Stakeholder management                         |  Intermediate          | 3                                |
+| Communication channel define                   |  Intermediate          | 3                                |
+| Project  Tracking & reporting                  |  Intermediate          | 3                                |
 
 
 ### Personal & Project Management
