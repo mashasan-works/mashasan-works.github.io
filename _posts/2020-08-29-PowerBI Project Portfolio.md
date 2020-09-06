@@ -82,7 +82,3 @@ The sales amount is displayed against states, salse manager, pizza types and day
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUyZjE4YmYtOWI1MC00NTVjLWFkNmYtNjdjMDFlZWM0MGYxIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
-## US 2017 Disaster Analysis Report
-The second page contains the summary, losses and deaths report against the states. The total and avg amounts, quantities are displayed as card on left hand side for both the report page. The disaster types (images) are displayed at the top using chiclet slicer importing from marketplace. The first page of report shows the disasters against the states using shape map.
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMDNhYTkyODMtN2VmMy00YTA0LWIwM2QtODZjZWEwMjMzNDU2IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
