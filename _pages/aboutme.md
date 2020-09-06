@@ -35,9 +35,9 @@ Bachelor of Science in Computer science from American International University -
 | Excel                                                                                        | Advanced               | 10                               |
 | SQL Queries                                                                                  | Intermediate           | 4                                |
 | SQL Scripting Language                                                                       | Intermediate           | 2                                |
+| Tableau (Data Modelling, )                                                                                      | 
 | MS SQL server Administration                                                                 | Intermediate           | 1.5                              |
 | MS SQL Server 2008/2012 Management Studio Services (SSMS)                                    | Intermediate           | 2                                |
-| MS SQL Server 2008/2012 Integration Services (SSIS)                                          | Beginner               | 1                                |
 | MS SQL Server 2008/2012 Integration Services (SSIS)                                          | Beginner               | 1                                |
 | MS SQL Server 2008/2012 Reporting Services (SSIS)                                            | Beginner               | 1                                |
 
