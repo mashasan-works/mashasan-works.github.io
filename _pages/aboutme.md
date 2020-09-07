@@ -16,8 +16,8 @@ Bachelor of Science in Computer science from American International University -
 
 | Project Name                                     |Client                                          | Years                            |
 | -------------------------------------------------|:----------------------------------------------:| :-------------------------------:|
-| Lanka Bangla data managment & Visualisation      | Lanka Bangla Finance Limited                   | 2019-2020                        |
-| Digital Transformation project                   | Bangladesh Overseas Employment & Services Ltd  | 2018-2019                        |
+| Lanka Bangla data managment & Visualisation      | Lanka Bangla Finance Limited                   | 2020-2020                        |
+| Digital Transformation project                   | Bangladesh Overseas Employment & Services Ltd  | 2020-2020                        |
 | NBN MTM PDSA and HDA Project                     | Telsta corporation Ltd                         | 2016-2018                        |
 | Teletalk exchange deployment Project             | Huawei Technologies Bangladesh Ltd             | 2012-2013                        |
 | Telenor Network Swap Project                     | Huawei Technologies Bangladesh Ltd             | 2011-2012                        |
