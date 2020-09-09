@@ -1,5 +1,5 @@
 ---
-title: "Power BI Portfolio: Dashboard reporting of Finance, Sales, Procurement, Bank, IT, HR, Product and Manufacture department"
+title: "Power BI Projects: Dashboard reporting of Finance, Sales, Procurement, Bank, IT, HR, Product and Manufacture department"
 Date: 2019-01-23
 tags: [ETL and Dashboard Reorting with Power BI]
 header:
@@ -9,21 +9,9 @@ mathjax: "true"
 ---
 
 ## Introduction
-As a part of my Power BI porfolio, I will implement Power BI in different sample data sets in relevant Australian industries to demonstrate competency, expertise in power BI reports, dashboards. All the data, company names used in this portfolio are altered for security and compliance purpose. 
-The skills and technical knowledge applied are as below :  
+This portfolio is my self-development showcases in Power Bi, DAX formulas, and Data Analysis Skills. All the extract data sets have been altered because of security and compliance purpose. To produce below power Bi dashboards in various domains, I extract raw data from cloud then cleansing data, performed data correction, and created relational database management systems. 
 
-- Perform ETL using power query.
-- Access Data from cloud, csv, excel, SQL.
-- Data Preparation (update and append table).
-- Transform Data into Data Modeling and explore data by removing duplicates, adding conditionl columns, unpivot-splitting columns, normalize-denormalizing tables.
-- Create custom tables, relationships, star or snow flakes schema Tables.
-- Prepare data Visualization and reporting using Charts(bar, line, column, scatter, pie, donut, ribbon and waterflow ), table, matrix, KPI, slicers, map etc.
-- Perform DAX measure calculation using sum, count, calculate, divide, time intelligence.
-- Create Dynamic Measure, Dynamic Dimension, Tooltip, Bookmark in reporting. 
-- Building Dashboard to highlight the report using Natural Language Query
-- create alert,subscription in dashboard
-- Set up enterprise gateway.
-- Publish, Share and collaborate dashboard, workspace, apps.
+
 
 ## Financial Data Analysis
 The first page contains sales report by country, segment, discount band and product. It also contains a multi row card at the top, to display the Total Amounts, Profit % and Average Order. There are few slicers on the right hand side to see the report by different selection range.
