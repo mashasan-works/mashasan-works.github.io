@@ -1,5 +1,5 @@
 ---
-title: "Power BI Projects: Dashboard reporting of Finance, Sales, Procurement, Bank, IT, HR, Product and Manufacture department"
+title: "Power BI Projects"
 Date: 2019-01-23
 tags: [ETL and Dashboard Reorting with Power BI]
 header:
